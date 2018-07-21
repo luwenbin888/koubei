@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "userRoleId": 1,
+  "entityTypeId": 1,
+  "kouBeiProperties": [
+    {
+      "name": "Property1",
+      "seq": 1
+    },
+    {
+      "name": "Property2",
+      "seq": 2
+    },
+    {
+      "name": "Property3",
+      "seq": 3
+    }
+  ],
+  "createdDate": "Jul 21, 2018 2:47:00 PM",
+  "createdBy": 2,
+  "lastUpdatedDate": "Jul 21, 2018 2:47:00 PM",
+  "lastUpdatedBy": 3
+}
